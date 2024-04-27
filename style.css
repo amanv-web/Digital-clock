@@ -42,12 +42,12 @@
 }
 #hour::after{
     content: "Hour";
-    margin-left: -125px;
+    margin-left: -120px;
 }#min::after{
     content: "Minute";
 }#sec::after{
     content: "Second";
-    margin-left: +125px;
+    margin-left: +120px;
 
 }
 .block1 {
